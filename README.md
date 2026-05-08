@@ -52,7 +52,7 @@
     <h1>Privacy Policy</h1>
     <p><strong>Effective Date:</strong> May 8, 2026</p>
 
-    <p><span class="placeholder">Valdas Kundrotas</span> ("I", "me", or "my") built the <strong>Lithuania COA Quiz</strong> app as an Ad-Supported app. This SERVICE is provided by <span class="placeholder">Valdas Kundrotas</span> at no cost and is intended for use as is.</p>
+    <p>Valdas Kundrotas ("I", "me", or "my") built the <strong>Lithuania COA Quiz</strong> app as an Ad-Supported app. This SERVICE is provided by Valdas Kundrotas at no cost and is intended for use as is.</p>
 
     <p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
 
@@ -92,7 +92,7 @@
     <p>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</p>
 
     <h3>Contact Us</h3>
-    <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at: <span class="placeholder">hydrar@gmail.com</span>.</p>
+    <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at: hydrar@gmail.com.</p>
 
 </body>
 </html>
